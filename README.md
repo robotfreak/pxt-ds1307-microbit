@@ -1,7 +1,11 @@
-for PXT/microbit
+# DS1307 I2C RTC
 
 how do i real time clock??????
 
+## Meta
+
+- for PXT/calliope
+- for PXT/microbit
 
 known issues:
 
