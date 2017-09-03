@@ -1,15 +1,16 @@
 # DS1307 I2C RTC
 
-how do i real time clock??????
+This package is for controlling a DS1307 I2C RTC (real time clock) with PXT for Calliope-Mini or BBC micro:bit.
 
 ## Meta
 
 - for PXT/calliope
 - for PXT/microbit
 
-known issues:
+## known issues:
 
 - none so far
 
+## License
 
-we've also got the DateTime class from arduino's RTClib here, maybe find some way to expose that as well?
+MIT
